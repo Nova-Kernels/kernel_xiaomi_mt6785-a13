@@ -4505,6 +4505,12 @@ CONFIG_BEGONIA_NFC=y
 # CONFIG_CEZANNE_NFC is not set
 
 #
+# KernelSU
+#
+CONFIG_KSU=y
+# CONFIG_KSU_DEBUG is not set
+
+#
 # Firmware Drivers
 #
 CONFIG_ARM_PSCI_FW=y
